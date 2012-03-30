@@ -1,0 +1,9 @@
+{
+    "name" : "airport-cluster-example",
+    "version" : "0.0.0",
+    "dependencies" : {
+        "seaport" : "~0.6.5",
+        "airport" : "~0.3.2",
+        "bouncy" : "~1.3.1"
+    }
+}
